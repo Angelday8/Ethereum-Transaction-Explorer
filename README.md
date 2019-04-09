@@ -1,5 +1,5 @@
 # Ethereum-Transaction-Explorer
-Organizes transactions from an ethereum public key into a CSV file with respective prices
+This script organizes transactions from an ethereum public key into a CSV file with respective prices
 
 
 This script acquires all transactions into an ethereum wallet, looks up the price of Ethereum at the date the transaction was performed from coinmarketcap, calculates the value of that transaction for that day and exports the result into an Excell Sheet (.csv)
